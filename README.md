@@ -2,7 +2,7 @@
    <img src="./logo.png" alt="IDC" title="Imersão DevOps && Cloud" align="right" height="60" />
 </a>
 
-# Imersão DevOps && Cloud 2023 dinovo
+# Imersão DevOps && Cloud 2023 agora vai!!!
 
 Para acessar todas as aulas e lives, acesse: https://imersao.devopspro.com.br/
 
